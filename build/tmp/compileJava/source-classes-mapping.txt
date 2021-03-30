@@ -1,0 +1,52 @@
+org/tapusd/rpggame/characters/Queen.java
+ org.tapusd.rpggame.characters.Queen
+org/tapusd/simuduck/ducks/ModelDuck.java
+ org.tapusd.simuduck.ducks.ModelDuck
+org/tapusd/simuduck/ducks/Duck.java
+ org.tapusd.simuduck.ducks.Duck
+org/tapusd/rpggame/characters/Knight.java
+ org.tapusd.rpggame.characters.Knight
+org/tapusd/rpggame/weaponbehaviour/BowAndArrowBehaviour.java
+ org.tapusd.rpggame.weaponbehaviour.BowAndArrowBehaviour
+org/tapusd/simuduck/flybehaviour/FlyBehaviour.java
+ org.tapusd.simuduck.flybehaviour.FlyBehaviour
+org/tapusd/simuduck/quackbehaviour/Quack.java
+ org.tapusd.simuduck.quackbehaviour.Quack
+org/tapusd/simuduck/ducks/RubberDuck.java
+ org.tapusd.simuduck.ducks.RubberDuck
+org/tapusd/simuduck/quackbehaviour/QuackBehaviour.java
+ org.tapusd.simuduck.quackbehaviour.QuackBehaviour
+org/tapusd/simuduck/quackbehaviour/Squack.java
+ org.tapusd.simuduck.quackbehaviour.Squack
+org/tapusd/simuduck/ducks/DecoyDuck.java
+ org.tapusd.simuduck.ducks.DecoyDuck
+org/tapusd/rpggame/characters/Character.java
+ org.tapusd.rpggame.characters.Character
+org/tapusd/simuduck/flybehaviour/FlyRocketPowered.java
+ org.tapusd.simuduck.flybehaviour.FlyRocketPowered
+org/tapusd/rpggame/weaponbehaviour/WeaponBehaviour.java
+ org.tapusd.rpggame.weaponbehaviour.WeaponBehaviour
+org/tapusd/simuduck/SimUDuckMain.java
+ org.tapusd.simuduck.SimUDuckMain
+org/tapusd/rpggame/weaponbehaviour/AxeBehaviour.java
+ org.tapusd.rpggame.weaponbehaviour.AxeBehaviour
+org/tapusd/simuduck/flybehaviour/FlyWithWings.java
+ org.tapusd.simuduck.flybehaviour.FlyWithWings
+org/tapusd/simuduck/quackbehaviour/MuteQuack.java
+ org.tapusd.simuduck.quackbehaviour.MuteQuack
+org/tapusd/simuduck/flybehaviour/FlyNoWay.java
+ org.tapusd.simuduck.flybehaviour.FlyNoWay
+org/tapusd/simuduck/ducks/RedHeadDuck.java
+ org.tapusd.simuduck.ducks.RedHeadDuck
+org/tapusd/rpggame/characters/Troll.java
+ org.tapusd.rpggame.characters.Troll
+org/tapusd/rpggame/weaponbehaviour/KnifeBehaviour.java
+ org.tapusd.rpggame.weaponbehaviour.KnifeBehaviour
+org/tapusd/simuduck/ducks/MallardDuck.java
+ org.tapusd.simuduck.ducks.MallardDuck
+org/tapusd/rpggame/characters/King.java
+ org.tapusd.rpggame.characters.King
+org/tapusd/rpggame/RpgGameMain.java
+ org.tapusd.rpggame.RpgGameMain
+org/tapusd/rpggame/weaponbehaviour/SwordBehaviour.java
+ org.tapusd.rpggame.weaponbehaviour.SwordBehaviour
