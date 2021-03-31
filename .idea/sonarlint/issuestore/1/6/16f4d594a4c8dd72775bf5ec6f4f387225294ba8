@@ -1,0 +1,14 @@
+
+t
+java:S1450"WRemove the "pressure" field and declare it as a local variable in the relevant methods.(Ï¼Çä8Ì¦¿·ˆ/
+|
+java:S1450"ZRemove the "temperature" field and declare it as a local variable in the relevant methods.(¹„ËÓþÿÿÿÿ8Ì¦¿·ˆ/
+T
+java:S3972"7Move this "if" to a new line or add the missing "else".(ÈÙí¨8‹«Æ·ˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ü—Ûµ8‹«Æ·ˆ/
+Q
+java:S1068"/Remove this unused "weatherData" private field.(òÿÉ™øÿÿÿÿ8¢©½·ˆ/
+Q
+java:S1068"/Remove this unused "temperature" private field.(¹„ËÓþÿÿÿÿ8¢©½·ˆ/
+I
+java:S1068",Remove this unused "pressure" private field.(Ï¼Çä8¢©½·ˆ/
