@@ -1,7 +1,0 @@
-package org.tapusd.chaptertwo;
-
-public interface Subject {
-    void registerObserver(Observer observer);
-    void removeObserver(Observer observer);
-    void notifyObservers();
-}

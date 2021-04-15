@@ -4,12 +4,14 @@ org/tapusd/chapterone/simuduck/ducks/RubberDuck.java
  org.tapusd.chapterone.simuduck.ducks.RubberDuck
 org/tapusd/chapterone/rpggame/weaponbehaviour/BowAndArrowBehaviour.java
  org.tapusd.chapterone.rpggame.weaponbehaviour.BowAndArrowBehaviour
+org/tapusd/chaptertwo/customobserver/ForecastDisplay.java
+ org.tapusd.chaptertwo.customobserver.ForecastDisplay
 org/tapusd/chapterone/rpggame/characters/Queen.java
  org.tapusd.chapterone.rpggame.characters.Queen
 org/tapusd/chapterone/rpggame/weaponbehaviour/WeaponBehaviour.java
  org.tapusd.chapterone.rpggame.weaponbehaviour.WeaponBehaviour
-org/tapusd/chaptertwo/WeatherData.java
- org.tapusd.chaptertwo.WeatherData
+org/tapusd/chaptertwo/customobserver/WeatherORamaMain.java
+ org.tapusd.chaptertwo.customobserver.WeatherORamaMain
 org/tapusd/chapterone/simuduck/ducks/MallardDuck.java
  org.tapusd.chapterone.simuduck.ducks.MallardDuck
 org/tapusd/chapterone/simuduck/ducks/Duck.java
@@ -18,53 +20,90 @@ org/tapusd/chapterone/simuduck/quackbehaviour/Squack.java
  org.tapusd.chapterone.simuduck.quackbehaviour.Squack
 org/tapusd/chapterone/rpggame/characters/Character.java
  org.tapusd.chapterone.rpggame.characters.Character
-org/tapusd/chaptertwo/Observer.java
- org.tapusd.chaptertwo.Observer
-org/tapusd/chaptertwo/Subject.java
- org.tapusd.chaptertwo.Subject
 org/tapusd/chapterone/simuduck/flybehaviour/FlyBehaviour.java
  org.tapusd.chapterone.simuduck.flybehaviour.FlyBehaviour
+org/tapusd/chaptertwo/customobserver/DisplayElement.java
+ org.tapusd.chaptertwo.customobserver.DisplayElement
 org/tapusd/chapterone/simuduck/ducks/ModelDuck.java
  org.tapusd.chapterone.simuduck.ducks.ModelDuck
 org/tapusd/chapterone/rpggame/weaponbehaviour/SwordBehaviour.java
  org.tapusd.chapterone.rpggame.weaponbehaviour.SwordBehaviour
 org/tapusd/chapterone/rpggame/weaponbehaviour/AxeBehaviour.java
  org.tapusd.chapterone.rpggame.weaponbehaviour.AxeBehaviour
+org/tapusd/chaptertwo/customobserver/StatisticDisplay.java
+ org.tapusd.chaptertwo.customobserver.StatisticDisplay
 org/tapusd/chapterone/rpggame/characters/Troll.java
  org.tapusd.chapterone.rpggame.characters.Troll
+org/tapusd/chaptertwo/customobserver/CurrentConditionsDisplay.java
+ org.tapusd.chaptertwo.customobserver.CurrentConditionsDisplay
 org/tapusd/chapterone/simuduck/SimUDuckMain.java
  org.tapusd.chapterone.simuduck.SimUDuckMain
 org/tapusd/chapterone/simuduck/ducks/RedHeadDuck.java
  org.tapusd.chapterone.simuduck.ducks.RedHeadDuck
 org/tapusd/chapterone/rpggame/characters/Knight.java
  org.tapusd.chapterone.rpggame.characters.Knight
-org/tapusd/chaptertwo/DisplayElement.java
- org.tapusd.chaptertwo.DisplayElement
 org/tapusd/chapterone/simuduck/quackbehaviour/Quack.java
  org.tapusd.chapterone.simuduck.quackbehaviour.Quack
 org/tapusd/chapterone/rpggame/weaponbehaviour/KnifeBehaviour.java
  org.tapusd.chapterone.rpggame.weaponbehaviour.KnifeBehaviour
+org/tapusd/chaptertwo/customobserver/HeadIndexDisplay.java
+ org.tapusd.chaptertwo.customobserver.HeadIndexDisplay
 org/tapusd/chapterone/simuduck/flybehaviour/FlyRocketPowered.java
  org.tapusd.chapterone.simuduck.flybehaviour.FlyRocketPowered
-org/tapusd/chapterone/simuduck/flybehaviour/FlyWithWings.java
- org.tapusd.chapterone.simuduck.flybehaviour.FlyWithWings
 org/tapusd/chapterone/simuduck/flybehaviour/FlyNoWay.java
  org.tapusd.chapterone.simuduck.flybehaviour.FlyNoWay
+org/tapusd/chaptertwo/customobserver/Subject.java
+ org.tapusd.chaptertwo.customobserver.Subject
+org/tapusd/chapterone/simuduck/flybehaviour/FlyWithWings.java
+ org.tapusd.chapterone.simuduck.flybehaviour.FlyWithWings
 org/tapusd/chapterone/rpggame/RpgGameMain.java
  org.tapusd.chapterone.rpggame.RpgGameMain
+org/tapusd/chaptertwo/builtinobserver/DisplayElement.java
+ org.tapusd.chaptertwo.builtinobserver.DisplayElement
+org/tapusd/chaptertwo/customobserver/WeatherData.java
+ org.tapusd.chaptertwo.customobserver.WeatherData
 org/tapusd/chapterone/rpggame/characters/King.java
  org.tapusd.chapterone.rpggame.characters.King
+org/tapusd/chaptertwo/customobserver/Observer.java
+ org.tapusd.chaptertwo.customobserver.Observer
 org/tapusd/chapterone/simuduck/quackbehaviour/QuackBehaviour.java
  org.tapusd.chapterone.simuduck.quackbehaviour.QuackBehaviour
 org/tapusd/chapterone/simuduck/ducks/DecoyDuck.java
  org.tapusd.chapterone.simuduck.ducks.DecoyDuck
-org/tapusd/chaptertwo/ForecastDisplay.java
- org.tapusd.chaptertwo.ForecastDisplay
-org/tapusd/chaptertwo/CurrentConditionsDisplay.java
- org.tapusd.chaptertwo.CurrentConditionsDisplay
-org/tapusd/chaptertwo/HeadIndexDisplay.java
- org.tapusd.chaptertwo.HeadIndexDisplay
-org/tapusd/chaptertwo/StatisticDisplay.java
- org.tapusd.chaptertwo.StatisticDisplay
-org/tapusd/chaptertwo/WeatherORamaMain.java
- org.tapusd.chaptertwo.WeatherORamaMain
+org/tapusd/chaptertwo/builtinobserver/WeatherORamaMain.java
+ org.tapusd.chaptertwo.builtinobserver.WeatherORamaMain
+org/tapusd/chaptertwo/builtinobserver/CurrentConditionsDisplay.java
+ org.tapusd.chaptertwo.builtinobserver.CurrentConditionsDisplay
+org/tapusd/chaptertwo/builtinobserver/HeadIndexDisplay.java
+ org.tapusd.chaptertwo.builtinobserver.HeadIndexDisplay
+org/tapusd/chaptertwo/builtinobserver/WeatherData.java
+ org.tapusd.chaptertwo.builtinobserver.WeatherData
+org/tapusd/chapterthree/starbucks/beverage/DarkRoast.java
+ org.tapusd.chapterthree.starbucks.beverage.DarkRoast
+org/tapusd/chapterthree/starbucks/condiments/Mocha.java
+ org.tapusd.chapterthree.starbucks.condiments.Mocha
+org/tapusd/chapterthree/starbucks/beverage/Espresso.java
+ org.tapusd.chapterthree.starbucks.beverage.Espresso
+org/tapusd/chapterthree/starbucks/beverage/Beverage.java
+ org.tapusd.chapterthree.starbucks.beverage.Beverage
+org/tapusd/chapterthree/starbucks/beverage/Decaf.java
+ org.tapusd.chapterthree.starbucks.beverage.Decaf
+org/tapusd/chapterthree/starbucks/condiments/Whip.java
+ org.tapusd.chapterthree.starbucks.condiments.Whip
+org/tapusd/chapterthree/starbucks/Size.java
+ org.tapusd.chapterthree.starbucks.Size
+org/tapusd/chapterthree/starbucks/beverage/HouseBlend.java
+ org.tapusd.chapterthree.starbucks.beverage.HouseBlend
+org/tapusd/chapterthree/starbucks/condiments/SteamedMilk.java
+ org.tapusd.chapterthree.starbucks.condiments.SteamedMilk
+org/tapusd/chapterthree/starbucks/condiments/CondimentDecorator.java
+ org.tapusd.chapterthree.starbucks.condiments.CondimentDecorator
+org/tapusd/chapterthree/starbucks/condiments/Soy.java
+ org.tapusd.chapterthree.starbucks.condiments.Soy
+ org.tapusd.chapterthree.starbucks.condiments.Soy$1
+org/tapusd/chapterthree/starbucks/Main.java
+ org.tapusd.chapterthree.starbucks.Main
+org/tapusd/chapterthree/customio/LowerCaseFileReader.java
+ org.tapusd.chapterthree.customio.LowerCaseFileReader
+org/tapusd/chapterthree/customio/Main.java
+ org.tapusd.chapterthree.customio.Main
