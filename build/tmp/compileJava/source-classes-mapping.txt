@@ -98,12 +98,12 @@ org/tapusd/chapterthree/starbucks/condiments/SteamedMilk.java
  org.tapusd.chapterthree.starbucks.condiments.SteamedMilk
 org/tapusd/chapterthree/starbucks/condiments/CondimentDecorator.java
  org.tapusd.chapterthree.starbucks.condiments.CondimentDecorator
+org/tapusd/chapterthree/customio/LowerCaseFileReader.java
+ org.tapusd.chapterthree.customio.LowerCaseFileReader
+org/tapusd/chapterthree/customio/Main.java
+ org.tapusd.chapterthree.customio.Main
 org/tapusd/chapterthree/starbucks/condiments/Soy.java
  org.tapusd.chapterthree.starbucks.condiments.Soy
  org.tapusd.chapterthree.starbucks.condiments.Soy$1
 org/tapusd/chapterthree/starbucks/Main.java
  org.tapusd.chapterthree.starbucks.Main
-org/tapusd/chapterthree/customio/LowerCaseFileReader.java
- org.tapusd.chapterthree.customio.LowerCaseFileReader
-org/tapusd/chapterthree/customio/Main.java
- org.tapusd.chapterthree.customio.Main

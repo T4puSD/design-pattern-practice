@@ -37,11 +37,11 @@ public class Main {
 
         // price with tallbeveratesoy
         final DarkRoast darkRoast = new DarkRoast();
-        darkRoast.setSize(Size.MEDIUM);
+        darkRoast.setSize(Size.LARGE);
         final Beverage soyLatte = new Soy(darkRoast);
         System.out.println(soyLatte.getDescription() + "-> " +  soyLatte.getCost());
 
 
-        System.out.println(new Soy(new DarkRoast()).getCost());
+        System.out.println("noraml DarkRaost, Soy -> " +  new Soy(new DarkRoast()).getCost());
     }
 }
