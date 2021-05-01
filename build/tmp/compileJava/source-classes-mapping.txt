@@ -1,109 +1,182 @@
 org/tapusd/chapterone/simuduck/quackbehaviour/MuteQuack.java
  org.tapusd.chapterone.simuduck.quackbehaviour.MuteQuack
-org/tapusd/chapterone/simuduck/ducks/RubberDuck.java
- org.tapusd.chapterone.simuduck.ducks.RubberDuck
 org/tapusd/chapterone/rpggame/weaponbehaviour/BowAndArrowBehaviour.java
  org.tapusd.chapterone.rpggame.weaponbehaviour.BowAndArrowBehaviour
-org/tapusd/chaptertwo/customobserver/ForecastDisplay.java
- org.tapusd.chaptertwo.customobserver.ForecastDisplay
-org/tapusd/chapterone/rpggame/characters/Queen.java
- org.tapusd.chapterone.rpggame.characters.Queen
-org/tapusd/chapterone/rpggame/weaponbehaviour/WeaponBehaviour.java
- org.tapusd.chapterone.rpggame.weaponbehaviour.WeaponBehaviour
-org/tapusd/chaptertwo/customobserver/WeatherORamaMain.java
- org.tapusd.chaptertwo.customobserver.WeatherORamaMain
+org/tapusd/chapterfour/pizzas/GreekPizza.java
+ org.tapusd.chapterfour.pizzas.GreekPizza
+org/tapusd/chapterfour/pizzas/ClamPizza.java
+ org.tapusd.chapterfour.pizzas.ClamPizza
+org/tapusd/chapterfour/pizzas/VeggiePizza.java
+ org.tapusd.chapterfour.pizzas.VeggiePizza
+org/tapusd/chapterthree/starbucks/beverage/Espresso.java
+ org.tapusd.chapterthree.starbucks.beverage.Espresso
+org/tapusd/chapterfour/factory/NyPizzaIngredientFactory.java
+ org.tapusd.chapterfour.factory.NyPizzaIngredientFactory
 org/tapusd/chapterone/simuduck/ducks/MallardDuck.java
  org.tapusd.chapterone.simuduck.ducks.MallardDuck
 org/tapusd/chapterone/simuduck/ducks/Duck.java
  org.tapusd.chapterone.simuduck.ducks.Duck
-org/tapusd/chapterone/simuduck/quackbehaviour/Squack.java
- org.tapusd.chapterone.simuduck.quackbehaviour.Squack
-org/tapusd/chapterone/rpggame/characters/Character.java
- org.tapusd.chapterone.rpggame.characters.Character
+org/tapusd/chapterfour/factory/ingredients/veggies/BlackOlives.java
+ org.tapusd.chapterfour.factory.ingredients.veggies.BlackOlives
+org/tapusd/chapterfour/factory/ingredients/cheese/Cheese.java
+ org.tapusd.chapterfour.factory.ingredients.cheese.Cheese
 org/tapusd/chapterone/simuduck/flybehaviour/FlyBehaviour.java
  org.tapusd.chapterone.simuduck.flybehaviour.FlyBehaviour
-org/tapusd/chaptertwo/customobserver/DisplayElement.java
- org.tapusd.chaptertwo.customobserver.DisplayElement
+org/tapusd/chapterthree/customio/LowerCaseFileReader.java
+ org.tapusd.chapterthree.customio.LowerCaseFileReader
 org/tapusd/chapterone/simuduck/ducks/ModelDuck.java
  org.tapusd.chapterone.simuduck.ducks.ModelDuck
-org/tapusd/chapterone/rpggame/weaponbehaviour/SwordBehaviour.java
- org.tapusd.chapterone.rpggame.weaponbehaviour.SwordBehaviour
-org/tapusd/chapterone/rpggame/weaponbehaviour/AxeBehaviour.java
- org.tapusd.chapterone.rpggame.weaponbehaviour.AxeBehaviour
-org/tapusd/chaptertwo/customobserver/StatisticDisplay.java
- org.tapusd.chaptertwo.customobserver.StatisticDisplay
-org/tapusd/chapterone/rpggame/characters/Troll.java
- org.tapusd.chapterone.rpggame.characters.Troll
-org/tapusd/chaptertwo/customobserver/CurrentConditionsDisplay.java
- org.tapusd.chaptertwo.customobserver.CurrentConditionsDisplay
-org/tapusd/chapterone/simuduck/SimUDuckMain.java
- org.tapusd.chapterone.simuduck.SimUDuckMain
-org/tapusd/chapterone/simuduck/ducks/RedHeadDuck.java
- org.tapusd.chapterone.simuduck.ducks.RedHeadDuck
-org/tapusd/chapterone/rpggame/characters/Knight.java
- org.tapusd.chapterone.rpggame.characters.Knight
-org/tapusd/chapterone/simuduck/quackbehaviour/Quack.java
- org.tapusd.chapterone.simuduck.quackbehaviour.Quack
-org/tapusd/chapterone/rpggame/weaponbehaviour/KnifeBehaviour.java
- org.tapusd.chapterone.rpggame.weaponbehaviour.KnifeBehaviour
-org/tapusd/chaptertwo/customobserver/HeadIndexDisplay.java
- org.tapusd.chaptertwo.customobserver.HeadIndexDisplay
-org/tapusd/chapterone/simuduck/flybehaviour/FlyRocketPowered.java
- org.tapusd.chapterone.simuduck.flybehaviour.FlyRocketPowered
-org/tapusd/chapterone/simuduck/flybehaviour/FlyNoWay.java
- org.tapusd.chapterone.simuduck.flybehaviour.FlyNoWay
-org/tapusd/chaptertwo/customobserver/Subject.java
- org.tapusd.chaptertwo.customobserver.Subject
-org/tapusd/chapterone/simuduck/flybehaviour/FlyWithWings.java
- org.tapusd.chapterone.simuduck.flybehaviour.FlyWithWings
-org/tapusd/chapterone/rpggame/RpgGameMain.java
- org.tapusd.chapterone.rpggame.RpgGameMain
-org/tapusd/chaptertwo/builtinobserver/DisplayElement.java
- org.tapusd.chaptertwo.builtinobserver.DisplayElement
-org/tapusd/chaptertwo/customobserver/WeatherData.java
- org.tapusd.chaptertwo.customobserver.WeatherData
-org/tapusd/chapterone/rpggame/characters/King.java
- org.tapusd.chapterone.rpggame.characters.King
-org/tapusd/chaptertwo/customobserver/Observer.java
- org.tapusd.chaptertwo.customobserver.Observer
-org/tapusd/chapterone/simuduck/quackbehaviour/QuackBehaviour.java
- org.tapusd.chapterone.simuduck.quackbehaviour.QuackBehaviour
-org/tapusd/chapterone/simuduck/ducks/DecoyDuck.java
- org.tapusd.chapterone.simuduck.ducks.DecoyDuck
-org/tapusd/chaptertwo/builtinobserver/WeatherORamaMain.java
- org.tapusd.chaptertwo.builtinobserver.WeatherORamaMain
-org/tapusd/chaptertwo/builtinobserver/CurrentConditionsDisplay.java
- org.tapusd.chaptertwo.builtinobserver.CurrentConditionsDisplay
-org/tapusd/chaptertwo/builtinobserver/HeadIndexDisplay.java
- org.tapusd.chaptertwo.builtinobserver.HeadIndexDisplay
-org/tapusd/chaptertwo/builtinobserver/WeatherData.java
- org.tapusd.chaptertwo.builtinobserver.WeatherData
-org/tapusd/chapterthree/starbucks/beverage/DarkRoast.java
- org.tapusd.chapterthree.starbucks.beverage.DarkRoast
-org/tapusd/chapterthree/starbucks/condiments/Mocha.java
- org.tapusd.chapterthree.starbucks.condiments.Mocha
-org/tapusd/chapterthree/starbucks/beverage/Espresso.java
- org.tapusd.chapterthree.starbucks.beverage.Espresso
-org/tapusd/chapterthree/starbucks/beverage/Beverage.java
- org.tapusd.chapterthree.starbucks.beverage.Beverage
+org/tapusd/chapterfour/pizzas/PepperoniPizza.java
+ org.tapusd.chapterfour.pizzas.PepperoniPizza
 org/tapusd/chapterthree/starbucks/beverage/Decaf.java
  org.tapusd.chapterthree.starbucks.beverage.Decaf
+org/tapusd/chaptertwo/builtinobserver/HeadIndexDisplay.java
+ org.tapusd.chaptertwo.builtinobserver.HeadIndexDisplay
+org/tapusd/chapterfour/factory/ingredients/dough/ThickCrustDough.java
+ org.tapusd.chapterfour.factory.ingredients.dough.ThickCrustDough
+org/tapusd/chapterfour/pizzas/NYStylePepperoniPizza.java
+ org.tapusd.chapterfour.pizzas.NYStylePepperoniPizza
+org/tapusd/chapterthree/starbucks/condiments/Soy.java
+ org.tapusd.chapterthree.starbucks.condiments.Soy
+ org.tapusd.chapterthree.starbucks.condiments.Soy$1
+org/tapusd/chapterone/rpggame/characters/Troll.java
+ org.tapusd.chapterone.rpggame.characters.Troll
+org/tapusd/chapterthree/starbucks/beverage/DarkRoast.java
+ org.tapusd.chapterthree.starbucks.beverage.DarkRoast
+org/tapusd/chapterfour/factory/ingredients/cheese/ReggianoCheese.java
+ org.tapusd.chapterfour.factory.ingredients.cheese.ReggianoCheese
+org/tapusd/chapterfour/factory/ingredients/clams/FreshClams.java
+ org.tapusd.chapterfour.factory.ingredients.clams.FreshClams
+org/tapusd/chapterone/rpggame/weaponbehaviour/KnifeBehaviour.java
+ org.tapusd.chapterone.rpggame.weaponbehaviour.KnifeBehaviour
+org/tapusd/chapterone/simuduck/quackbehaviour/Quack.java
+ org.tapusd.chapterone.simuduck.quackbehaviour.Quack
+org/tapusd/chapterfour/factory/ingredients/veggies/RedPepper.java
+ org.tapusd.chapterfour.factory.ingredients.veggies.RedPepper
 org/tapusd/chapterthree/starbucks/condiments/Whip.java
  org.tapusd.chapterthree.starbucks.condiments.Whip
 org/tapusd/chapterthree/starbucks/Size.java
  org.tapusd.chapterthree.starbucks.Size
-org/tapusd/chapterthree/starbucks/beverage/HouseBlend.java
- org.tapusd.chapterthree.starbucks.beverage.HouseBlend
-org/tapusd/chapterthree/starbucks/condiments/SteamedMilk.java
- org.tapusd.chapterthree.starbucks.condiments.SteamedMilk
-org/tapusd/chapterthree/starbucks/condiments/CondimentDecorator.java
- org.tapusd.chapterthree.starbucks.condiments.CondimentDecorator
-org/tapusd/chapterthree/customio/LowerCaseFileReader.java
- org.tapusd.chapterthree.customio.LowerCaseFileReader
+org/tapusd/chaptertwo/customobserver/HeadIndexDisplay.java
+ org.tapusd.chaptertwo.customobserver.HeadIndexDisplay
+org/tapusd/chapterfour/factory/ingredients/cheese/MozzarellaCheese.java
+ org.tapusd.chapterfour.factory.ingredients.cheese.MozzarellaCheese
 org/tapusd/chapterthree/customio/Main.java
  org.tapusd.chapterthree.customio.Main
-org/tapusd/chapterthree/starbucks/condiments/Soy.java
- org.tapusd.chapterthree.starbucks.condiments.Soy
- org.tapusd.chapterthree.starbucks.condiments.Soy$1
+org/tapusd/chapterfour/factory/ingredients/veggies/Spinach.java
+ org.tapusd.chapterfour.factory.ingredients.veggies.Spinach
+org/tapusd/chapterfour/pizzas/Pizza.java
+ org.tapusd.chapterfour.pizzas.Pizza
+org/tapusd/chapterfour/factory/ingredients/dough/ThinCrustDough.java
+ org.tapusd.chapterfour.factory.ingredients.dough.ThinCrustDough
+org/tapusd/chaptertwo/builtinobserver/DisplayElement.java
+ org.tapusd.chaptertwo.builtinobserver.DisplayElement
+org/tapusd/chaptertwo/customobserver/WeatherData.java
+ org.tapusd.chaptertwo.customobserver.WeatherData
+org/tapusd/chapterfour/factory/ChicagoPizzaIngredientFactory.java
+ org.tapusd.chapterfour.factory.ChicagoPizzaIngredientFactory
+org/tapusd/chapterthree/starbucks/condiments/CondimentDecorator.java
+ org.tapusd.chapterthree.starbucks.condiments.CondimentDecorator
+org/tapusd/chaptertwo/customobserver/Observer.java
+ org.tapusd.chaptertwo.customobserver.Observer
+org/tapusd/chapterone/rpggame/characters/King.java
+ org.tapusd.chapterone.rpggame.characters.King
+org/tapusd/chapterfour/factory/ingredients/veggies/EggPlant.java
+ org.tapusd.chapterfour.factory.ingredients.veggies.EggPlant
+org/tapusd/chaptertwo/customobserver/WeatherORamaMain.java
+ org.tapusd.chaptertwo.customobserver.WeatherORamaMain
+org/tapusd/chapterone/rpggame/weaponbehaviour/AxeBehaviour.java
+ org.tapusd.chapterone.rpggame.weaponbehaviour.AxeBehaviour
+org/tapusd/chaptertwo/customobserver/ForecastDisplay.java
+ org.tapusd.chaptertwo.customobserver.ForecastDisplay
+org/tapusd/chapterone/simuduck/flybehaviour/FlyWithWings.java
+ org.tapusd.chapterone.simuduck.flybehaviour.FlyWithWings
+org/tapusd/chapterfour/factory/ingredients/veggies/Onion.java
+ org.tapusd.chapterfour.factory.ingredients.veggies.Onion
+org/tapusd/chaptertwo/builtinobserver/CurrentConditionsDisplay.java
+ org.tapusd.chaptertwo.builtinobserver.CurrentConditionsDisplay
+org/tapusd/chapterone/simuduck/ducks/RubberDuck.java
+ org.tapusd.chapterone.simuduck.ducks.RubberDuck
+org/tapusd/chapterfour/factory/ingredients/peperroni/SlicedPepperoni.java
+ org.tapusd.chapterfour.factory.ingredients.peperroni.SlicedPepperoni
+org/tapusd/chaptertwo/builtinobserver/WeatherORamaMain.java
+ org.tapusd.chaptertwo.builtinobserver.WeatherORamaMain
+org/tapusd/chapterone/rpggame/weaponbehaviour/WeaponBehaviour.java
+ org.tapusd.chapterone.rpggame.weaponbehaviour.WeaponBehaviour
+org/tapusd/chapterone/rpggame/characters/Queen.java
+ org.tapusd.chapterone.rpggame.characters.Queen
+org/tapusd/chapterthree/starbucks/condiments/Mocha.java
+ org.tapusd.chapterthree.starbucks.condiments.Mocha
+org/tapusd/chapterthree/starbucks/beverage/Beverage.java
+ org.tapusd.chapterthree.starbucks.beverage.Beverage
+org/tapusd/chapterfour/factory/ingredients/sauce/PlumTomatoSauce.java
+ org.tapusd.chapterfour.factory.ingredients.sauce.PlumTomatoSauce
+org/tapusd/chapterfour/factory/ingredients/veggies/Garlic.java
+ org.tapusd.chapterfour.factory.ingredients.veggies.Garlic
+org/tapusd/chapterthree/starbucks/condiments/SteamedMilk.java
+ org.tapusd.chapterthree.starbucks.condiments.SteamedMilk
+org/tapusd/chapterfour/pizzas/CheesePizza.java
+ org.tapusd.chapterfour.pizzas.CheesePizza
+org/tapusd/chapterfour/store/NYStylePizzaStore.java
+ org.tapusd.chapterfour.store.NYStylePizzaStore
+ org.tapusd.chapterfour.store.NYStylePizzaStore$1
+org/tapusd/chapterone/simuduck/quackbehaviour/Squack.java
+ org.tapusd.chapterone.simuduck.quackbehaviour.Squack
+org/tapusd/chapterone/rpggame/characters/Character.java
+ org.tapusd.chapterone.rpggame.characters.Character
+org/tapusd/chapterfour/factory/ingredients/veggies/Veggies.java
+ org.tapusd.chapterfour.factory.ingredients.veggies.Veggies
+org/tapusd/chapterfour/pizzas/PizzaType.java
+ org.tapusd.chapterfour.pizzas.PizzaType
+org/tapusd/chaptertwo/customobserver/DisplayElement.java
+ org.tapusd.chaptertwo.customobserver.DisplayElement
+org/tapusd/chapterfour/factory/ingredients/veggies/Mushroom.java
+ org.tapusd.chapterfour.factory.ingredients.veggies.Mushroom
+org/tapusd/chapterone/rpggame/weaponbehaviour/SwordBehaviour.java
+ org.tapusd.chapterone.rpggame.weaponbehaviour.SwordBehaviour
+org/tapusd/chaptertwo/customobserver/StatisticDisplay.java
+ org.tapusd.chaptertwo.customobserver.StatisticDisplay
 org/tapusd/chapterthree/starbucks/Main.java
  org.tapusd.chapterthree.starbucks.Main
+org/tapusd/chaptertwo/customobserver/CurrentConditionsDisplay.java
+ org.tapusd.chaptertwo.customobserver.CurrentConditionsDisplay
+org/tapusd/chapterone/simuduck/SimUDuckMain.java
+ org.tapusd.chapterone.simuduck.SimUDuckMain
+org/tapusd/chapterfour/factory/ingredients/clams/FrozenClams.java
+ org.tapusd.chapterfour.factory.ingredients.clams.FrozenClams
+org/tapusd/chapterone/simuduck/ducks/RedHeadDuck.java
+ org.tapusd.chapterone.simuduck.ducks.RedHeadDuck
+org/tapusd/chapterone/rpggame/characters/Knight.java
+ org.tapusd.chapterone.rpggame.characters.Knight
+org/tapusd/chapterfour/factory/ingredients/sauce/MarinaraSauce.java
+ org.tapusd.chapterfour.factory.ingredients.sauce.MarinaraSauce
+org/tapusd/chapterone/simuduck/flybehaviour/FlyRocketPowered.java
+ org.tapusd.chapterone.simuduck.flybehaviour.FlyRocketPowered
+org/tapusd/chapterfour/store/PizzaStore.java
+ org.tapusd.chapterfour.store.PizzaStore
+org/tapusd/chapterfour/factory/PizzaIngredirentFactory.java
+ org.tapusd.chapterfour.factory.PizzaIngredirentFactory
+org/tapusd/chapterfour/factory/ingredients/peperroni/Pepperoni.java
+ org.tapusd.chapterfour.factory.ingredients.peperroni.Pepperoni
+org/tapusd/chapterfour/factory/ingredients/clams/Clams.java
+ org.tapusd.chapterfour.factory.ingredients.clams.Clams
+org/tapusd/chapterone/simuduck/flybehaviour/FlyNoWay.java
+ org.tapusd.chapterone.simuduck.flybehaviour.FlyNoWay
+org/tapusd/chaptertwo/customobserver/Subject.java
+ org.tapusd.chaptertwo.customobserver.Subject
+org/tapusd/chaptertwo/builtinobserver/WeatherData.java
+ org.tapusd.chaptertwo.builtinobserver.WeatherData
+org/tapusd/chapterone/rpggame/RpgGameMain.java
+ org.tapusd.chapterone.rpggame.RpgGameMain
+org/tapusd/chapterthree/starbucks/beverage/HouseBlend.java
+ org.tapusd.chapterthree.starbucks.beverage.HouseBlend
+org/tapusd/chapterfour/factory/ingredients/sauce/Sauce.java
+ org.tapusd.chapterfour.factory.ingredients.sauce.Sauce
+org/tapusd/chapterfour/factory/ingredients/dough/Dough.java
+ org.tapusd.chapterfour.factory.ingredients.dough.Dough
+org/tapusd/chapterone/simuduck/ducks/DecoyDuck.java
+ org.tapusd.chapterone.simuduck.ducks.DecoyDuck
+org/tapusd/chapterone/simuduck/quackbehaviour/QuackBehaviour.java
+ org.tapusd.chapterone.simuduck.quackbehaviour.QuackBehaviour
+org/tapusd/chapterfour/Main.java
+ org.tapusd.chapterfour.Main
