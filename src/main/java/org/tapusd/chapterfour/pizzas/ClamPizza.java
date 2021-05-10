@@ -7,6 +7,7 @@ public class ClamPizza extends Pizza{
 
     public ClamPizza(PizzaIngredirentFactory ingredirentFactory) {
         this.ingredirentFactory = ingredirentFactory;
+        this.name = getClass().getSimpleName();
     }
 
     @Override

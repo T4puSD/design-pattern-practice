@@ -22,7 +22,7 @@ public class NYStylePizzaStore extends PizzaStore{
                 pizza = new PepperoniPizza(ingredirentFactory);
                 break;
             case GREEK:
-                pizza = new GreekPizza();
+                pizza = new GreekPizza(ingredirentFactory);
                 break;
             case CHEESE:
                 pizza = new CheesePizza(ingredirentFactory);

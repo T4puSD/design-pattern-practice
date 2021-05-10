@@ -7,11 +7,12 @@ public class CheesePizza extends Pizza {
 
     public CheesePizza(PizzaIngredirentFactory ingredirentFactory) {
         this.ingredirentFactory = ingredirentFactory;
+        this.name = getClass().getSimpleName();
     }
 
     @Override
     public void prepare() {
-        System.out.println(getClass().getSimpleName() + ": Preparing -> " + name);
+        System.out.println("Preparing -> " + name);
         dough = ingredirentFactory.createDough();
         sauce = ingredirentFactory.createSauce();
         cheese = ingredirentFactory.createCheese();

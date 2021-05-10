@@ -7,6 +7,7 @@ public class PepperoniPizza extends Pizza {
 
     public PepperoniPizza(PizzaIngredirentFactory ingredirentFactory) {
         this.ingredirentFactory = ingredirentFactory;
+        this.name = "Pepperoni Pizza";
     }
 
     @Override

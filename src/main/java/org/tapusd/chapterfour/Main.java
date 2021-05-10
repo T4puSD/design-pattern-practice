@@ -11,6 +11,7 @@ public class Main {
     public static void main(String[] args) {
         PizzaStore pizzaStore = new NYStylePizzaStore();
         pizzaStore.orderPizza(PizzaType.CHEESE);
+        System.out.println("-");
         final Pizza pizza = pizzaStore.orderPizza(PizzaType.VEGGIE);
         System.out.println(pizza.toString());
     }
