@@ -1,1 +1,0 @@
-This is a Lower Case letter Test For My Custom FileReader.

@@ -1,12 +1,0 @@
-
-M
-java:S1874"0Remove this use of "Observer"; it is deprecated.(ôÂÅà8áÌªŠ/
-T
-java:S1874"2Remove this use of "Observable"; it is deprecated.(Ûä«³üÿÿÿÿ8ÛèªŠ/
-T
-java:S1874"2Remove this use of "Observable"; it is deprecated.(ûçëşÿÿÿÿ8ÓÄ²Š/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¼ •äûÿÿÿÿ
-K
-java:S1068".Remove this unused "observable" private field.(äº¾É8—°±Š/
-O
-java:S1874"2Remove this use of "Observable"; it is deprecated.(äº¾É8—°±Š/
