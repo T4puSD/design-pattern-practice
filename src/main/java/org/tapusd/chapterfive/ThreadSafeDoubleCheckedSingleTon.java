@@ -4,6 +4,7 @@ import java.util.Objects;
 
 public class ThreadSafeDoubleCheckedSingleTon {
     private static volatile ThreadSafeDoubleCheckedSingleTon uniqueInstance;
+    private int counter;
 
     private ThreadSafeDoubleCheckedSingleTon() {}
 
@@ -20,5 +21,13 @@ public class ThreadSafeDoubleCheckedSingleTon {
             }
         }
         return uniqueInstance;
+    }
+
+    public void updateCounter() {
+        this.counter++;
+    }
+
+    public int getCounter() {
+        return counter;
     }
 }

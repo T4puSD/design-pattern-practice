@@ -4,6 +4,7 @@ import java.util.Objects;
 
 public class ThreadSafeInefficientSingleTon {
     private static ThreadSafeInefficientSingleTon uniqueInstance;
+    private int counter;
 
     private ThreadSafeInefficientSingleTon() {}
 
@@ -17,5 +18,13 @@ public class ThreadSafeInefficientSingleTon {
             uniqueInstance = new ThreadSafeInefficientSingleTon();
         }
         return uniqueInstance;
+    }
+
+    public void updateCounter() {
+        this.counter++;
+    }
+
+    public int getCounter() {
+        return counter;
     }
 }

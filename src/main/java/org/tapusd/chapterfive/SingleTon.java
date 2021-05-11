@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public class SingleTon {
     private static SingleTon uniqueInstance;
-    private String name;
+    private int counter;
 
     private SingleTon() {}
 
@@ -16,11 +16,11 @@ public class SingleTon {
         return uniqueInstance;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void updateCounter() {
+        this.counter++;
     }
 
-    public String getName() {
-        return name;
+    public int getCounter() {
+        return counter;
     }
 }

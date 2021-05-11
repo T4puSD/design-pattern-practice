@@ -2,6 +2,7 @@ package org.tapusd.chapterfive;
 
 public class ThreadSafeSingleTon {
     private static ThreadSafeSingleTon uniqueInstance = new ThreadSafeSingleTon();
+    private int counter;
 
     private ThreadSafeSingleTon() {}
 
@@ -11,5 +12,13 @@ public class ThreadSafeSingleTon {
      */
     public static ThreadSafeSingleTon getInstance() {
         return uniqueInstance;
+    }
+
+    public void updateCounter() {
+        this.counter++;
+    }
+
+    public int getCounter() {
+        return counter;
     }
 }
