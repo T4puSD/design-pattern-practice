@@ -179,3 +179,5 @@ l
 <src/main/java/org/tapusd/chapterfour/pizzas/VeggiePizza.java,0/d/0d17a26d516e0557db1844c539806ac1252d91e0
 z
 Jsrc/main/java/org/tapusd/chapterfour/factory/NyPizzaIngredientFactory.java,e/e/ee29bf820f8cfbd4dd677cfc73d1d46aa1bb4596
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0

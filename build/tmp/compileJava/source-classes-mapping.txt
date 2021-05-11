@@ -180,3 +180,7 @@ org/tapusd/chapterone/simuduck/quackbehaviour/QuackBehaviour.java
  org.tapusd.chapterone.simuduck.quackbehaviour.QuackBehaviour
 org/tapusd/chapterfour/Main.java
  org.tapusd.chapterfour.Main
+org/tapusd/chapterfive/SingleTon.java
+ org.tapusd.chapterfive.SingleTon
+org/tapusd/chapterfive/Main.java
+ org.tapusd.chapterfive.Main
